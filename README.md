@@ -32,17 +32,16 @@
 
 - Tecnical Tester :  -
 - Survey 1 : -
-- Typography example : [here](http://font-store.github.io/font-farbod/typography-persian.htm)
-- Paper demo : [here](http://font-store.github.io/font-farbod/paper-persian.htm)
+- Typography example : [here](http://libre.font-store.ir/ShahabFont/typography-persian.htm)
+- Paper demo : [here](http://http://libre.font-store.ir/ShahabFont/paper-persian.htm)
 
 
 
 
 <ul  dir="rtl">
-<li>حرفه‌ای تست کنید : <a href="http://font-store.github.io/font-farbod/online/">کلیک کنید</a></li>
-<li>نظرخواهی : <a href="http://font-store.github.io/font-farbod/tests/">کلیک کنید</a></li>
-<li>نمونه تایپوگرافی : <a href="http://font-store.github.io/font-farbod/typography-persian.htm">کلیک کنید</a></li>
-<li>مقاله نمایشی : <a href="http://font-store.github.io/font-farbod/paper-persian.htm">کلیک کنید</a></li>
+
+<li>نمونه تایپوگرافی : <a href="http://libre.font-store.ir/ShahabFont//typography-persian.htm">کلیک کنید</a></li>
+<li>مقاله نمایشی : <a href="http://libre.font-store.ir/ShahabFont//paper-persian.htm">کلیک کنید</a></li>
 </ul>
 
 
@@ -51,18 +50,17 @@
 
 # Donation
 
-[![Intro](http://font-store.github.io/font-farbod/docs/4.png)](https://www.payping.ir/d/O3ub)
+[![Intro](http://libre.font-store.ir/ShahabFont/docs/4.png)](ppng.ir/d/uDag)
 
 
-## بزرگوارانی که فربد رو مورد حمایت خود  قرار دادند:
+## بزرگوارانی که شهاب را مورد حمایت خود  قرار دادند:
 
 
-total(rials) : ۲۵۰۰۰ تومان
+total(rials) : 0 تومان
 
 total(dollar) : 0$
 
 
--   [محمد کیهانی](https://twitter.com/1keyhani)
 
 
 
@@ -75,21 +73,3 @@ total(dollar) : 0$
 
 
 
-
-# سرگذشت
-
-##Farbod 3.0.0 :
-در این نگارش تایپ فیس فربد مجددا از نو طراحی شده است. فربد قرار هست برای  محیط‌هایی که وضوح بالایی در نمایش دارند استفاده شود، محیط‌های همچون چاپ و نشر رومیزی، و کاربردش بیشتر برای متون رسمی می‌باشد.
-
-اینگونه فونت‌ها ویژگی‌های خاص خودشان را دارند و از نظر چهره و اندازه حروف با سایر فونت‌های دیگر متفاوت هستند. برای مثال:
-
- - دندانه‌ها بسیار ظریف(لاغر) و و ارتفاع کمتری دارند.
- - در اکثر حروف دور فراوان و سطح کمتر دیده میشود
- - چهره حروف از خط‌های نستعلیق و نسخ عربی/فارسی گرفته می‌شود تا ظاهر رسمی پیدا نماید.
-
- 
-##Farbod 2.0.0 :
- این نسخه حاضر شده بود، اما در مرحله تکمیل فونت نیکا تصمیم گرفتم هر دو فونت رو باهم ادغام کنم تا فونت نیکا این قابلیت رو پیدا کنه تا سایر سبک‌های دیگه مثل منولاین و منو اسپیس رو  بتواند ساپورت کند.
-
-## Farbod 1.0.0 :
- نسخه آزمایشگاهی  و تست برای تولید پیاده سازی فونت ساز
