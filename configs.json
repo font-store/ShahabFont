@@ -1,0 +1,45 @@
+{
+	"rfb": "1",
+	"fontName":  "Shahab",
+	"fontVersion": "0.0.1",
+	"fontMeta": {
+        "Copyright": "Copyright (c) 2016 Copyright Holder Persian Font Store (info@font-store.ir), with Reserved Font Name \"Shahab\"",
+        "License": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "LicenseURL": "http://scripts.sil.org/OFL",
+        "Designer": "Mohammad Saleh Souzanchi",
+        "DesignerURL": "http: //soozanchi.ir",
+        "Trademark": "Shahab is a Trademark of Persian Font Store"
+	},
+    "fontWeights": {
+        "Regular": {
+            "src": "Shahab-Regular.sfd"
+        }
+    },
+	"dirs": {
+		"src": "sources",
+		"dist": "dist",
+		"watching": "watching",
+        "svg": "svg",
+        "temp": "tmp"
+	},
+    "automation":{
+        "engine": "ff",
+        "autoCreate": true,
+        "autoMark": true,
+        "autoMarkMode": "build",
+        "autoKern": true,
+        "autoKernMode": "build"        
+    },
+    "margins" : {
+        "isol" : [100,100],
+        "fina" : [100, 0],
+        "medi" : [-50, 0],
+        "init" : [-50, 100],
+        "num"  : [70, 70],
+        "sing" : [64, 64],
+        "mark" : [0],
+        "dot"  : [0]
+    },
+    "spaceWidth": 220,	
+	"grid" : "8"
+}

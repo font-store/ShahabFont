@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1300px" height="1300px" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1300 1056"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:black;fill-opacity:0.501961}
+    .fil6 {fill:#1A1A1A;fill-opacity:0.501961}
+    .fil4 {fill:#663333;fill-opacity:0.501961}
+    .fil5 {fill:#663333}
+    .fil1 {fill:#99CCCC}
+    .fil3 {fill:#FF6633}
+    .fil0 {fill:#FFCC99}
+   ]]>
+  </style>
+ </defs>
+ <g id="_100:master" visibility="hidden">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M975 488c0,56 -10,101 -74,138 -26,15 -62,24 -120,24l0 -81c45,0 80,-8 108,-19 52,-21 77,-52 86,-62z"/>
+  <path class="fil1" d="M781 650l0 -81c-20,0 -40,19 -40,40 -1,21 20,41 40,41z"/>
+  <path class="fil2" d="M921 555l-41 -447c-5,-52 -3,-57 28,-84l20 -16c13,-12 22,-11 23,9l24 471 -54 67z"/>
+ </g>
+ <g id="Layer_x0020_1" visibility="hidden">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <path class="fil1" d="M758 650l0 -81c-21,0 -41,19 -41,40 0,21 20,41 41,41z"/>
+  <path class="fil2" d="M975 482l-54 72 -30 -444c-4,-53 -5,-57 26,-86l18 -17c13,-12 23,-11 24,9l16 466z"/>
+  <path class="fil3" d="M756 569l0 81c154,0 220,-64 219,-179l-65 61c-31,23 -80,37 -154,37z"/>
+ </g>
+ <g id="Layer_x0020_2" visibility="hidden">
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <path class="fil2" d="M971 475l-57 -43 4 68c4,51 -45,69 -141,69l1 81 28 0c107,0 169,-44 166,-139l-1 -36z"/>
+  <path class="fil4" d="M922 557l-32 -487c-1,-21 -4,-23 11,-37l31 -27c13,-12 22,-8 23,7l16 478 -49 66z"/>
+  <path class="fil1" d="M778 650l0 -81c-20,0 -40,19 -40,40 -1,21 20,41 40,41z"/>
+ </g>
+ <g id="Layer_x0020_3" visibility="hidden">
+  <metadata id="CorelCorpID_3Corel-Layer"/>
+  <path class="fil4" d="M922 557l-32 -487c-1,-21 -4,-23 11,-37l31 -27c13,-12 22,-8 23,7l20 490 -53 54z"/>
+  <path class="fil1" d="M773 650l0 -81c-21,0 -41,19 -41,40 0,21 20,41 41,41z"/>
+  <path class="fil5" d="M975 503l-46 31c-16,11 -51,35 -145,35l-11 0 0 81 17 0c24,0 137,0 180,-77 5,-17 5,-64 5,-70z"/>
+ </g>
+ <g id="Layer_x0020_4">
+  <metadata id="CorelCorpID_4Corel-Layer"/>
+  <path class="fil6" d="M983 529l0 0c-5,101 -112,121 -214,121 -20,0 -41,-20 -41,-41 1,-21 21,-40 41,-40 56,0 102,-5 141,-19l-18 -514 73 -37 18 530z"/>
+ </g>
+</svg>
