@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'ShahabWeb';
+    src:    url('Shahab-Regular.woff') format('woff'),
+    url('Shahab-Regular.otf') format('opentype') ,
+    url('Shahab-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TestFont';
+    src:url('Shahab-Regular.woff') format('woff2'),
+    url('Shahab-Regular.woff') format('woff'),
+    url('Shahab-Regular.otf') format('opentype') ,
+    url('Shahab-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Ganj';
+    src: url('GanjNamehSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PfontTest';
+    src: url('Pfont-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'FSIcon';
+    src:url('fontstore-icon.woff2') format('woff2'),
+    url('fontstore-icon.woff') format('woff'),
+    url('fontstore-icon.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,189 @@
+:root {
+  font-size: 14px;
+  line-height:1.7;
+}
+/*
+@media (min-width: 400px) and (max-width: 800px) {
+  :root {
+    font-size: calc( 14px + (17 - 14) * ( (100vw - 400px) / ( 800 - 400) ));
+  }
+}
+@media (min-width: 800px) {
+  :root {
+    font-size: 17px;
+  }
+}
+*/
+html{
+  font-family: TestFont,cursive;
+  direction: rtl;
+  margin: 0px;
+  background: #F7F8FA;
+  color: #3c3c3c;
+}
+
+header{
+  background-color: #C82257;
+  padding: 0vh 12vw ;
+  position: relative;
+
+  z-index: 1;
+}
+
+.navbar{
+  list-style: none;
+  display: flex;
+  margin: 0px;
+  position: relative;
+  height: 115px;
+
+}
+
+.navbar li{
+  flex: 1 0 auto;
+  text-align: center;
+  align-self:center;
+}
+
+.navbar li.space{
+  flex: 1 1 6vw;
+}
+
+.navbar a{
+  color:#fff;
+  font-size: 1.2rem;
+}
+
+#logo{
+  position: absolute;
+  margin: 0px;
+  z-index: 1;
+  top: 0;
+  left: 50%;
+  background: #C82257;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: normal;
+  width: 12rem;
+  margin-left: -5rem;
+  height: 100px;
+  padding-top: 15px;
+}
+#logosvg{
+  position: relative;
+  top:5px;
+  z-index: 2;
+}
+#logo:after{
+
+  bottom: -1.5em;
+  content: '';
+  position: absolute;
+  left: 0px;
+
+  border-top: solid 1.5em #C82257;
+  border-left: solid 6rem rgba(0, 0, 0, 0.0);
+  border-right: solid 6rem rgba(0, 0, 0, 0);
+
+}
+
+section{
+  border-bottom: : 1px solid #666;
+  padding: 5vh 12vw ;
+  background-color: #fff;
+  min-height: 25vh;
+}
+
+
+section h2.title{
+  text-align: center;
+
+  font-size:3rem;
+
+  display: block;
+  margin-bottom: 5vh;
+}
+
+section p{
+  
+}
+
+
+footer{
+  background: #343740;
+  padding: 100px;
+}
+
+
+
+#slider{
+  background-color: #42454e;
+  display: block;
+  direction: ltr;
+  //overflow: hidden;
+  position: relative;
+}
+
+.owl-carousel .owl-item div{
+  padding: 4vw 0;
+  font-size: 15vw;
+  text-align: center;
+  color: #fff;
+  line-height: 1;
+
+}
+.owl-theme .owl-controls {
+   position: absolute;
+  bottom: 0;
+  text-align: center;
+  left: 0;
+  right: 0;
+}
+.owl-theme .owl-page span{
+   width: 8px !important;
+   height: 8px !important;
+   background: #bebf8a !important;
+ }
+
+#slider .fontName{
+
+}
+
+
+#about{
+
+  padding: 6vh 12vw ;
+  min-height: 70vh;
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+justify-content: center;
+  overflow: hidden;
+  position: relative;
+  background-color: #fff;
+}
+
+#about .fontName{
+  font-size: 25vw;
+  font-weight: 400;
+  display: block;
+  text-overflow: clip;
+  color:#C82257;
+   margin: 0;
+   line-height: 1;
+   text-overflow: clip;
+   text-shadow:#ccc -1px 1px 0, #c9c9c9 -2px 2px 0, #bbb -3px 3px 0, #b9b9b9 -4px 4px 0, #aaa -5px 5px 0,rgba(0,0,0,.1) -6px 6px 1px, rgba(0,0,0,.1) -7px 0 5px, rgba(0,0,0,.3) -1px 1px 3px, rgba(0,0,0,.15) -3px 3px 5px, rgba(0,0,0,.2) -5px 5px 10px, rgba(0,0,0,.2) -10px 10px 10px, rgba(0,0,0,.1) -20px 20px 20px;
+}
+
+#about .fontUsage{
+
+    width: 50vw;
+    margin: 0 auto;
+}
+
+#about .fontUsage p{
+
+    display: inline-block;
+    color:#444;
+    font-size: 50px;
+}

@@ -1,0 +1,424 @@
+/* Eric Meyer Reset*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* End Eric Meyer Reset*/
+/* Global Reset */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  direction: rtl;
+}
+
+a[role="button"] {
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* End Global Reset */
+
+
+.container {
+  max-width: 800px;
+  margin: 1rem auto 2rem auto;
+}
+
+
+/* Behdad Typography */
+
+/*
+* rem : for margin and padding
+* em  : for font-size
+*/
+
+body {
+  font-family: "TestFont", Helvetica, sans-serif;
+  font-size: 1em;
+  line-height: 1.5;
+  color: #353535;
+  direction: rtl;
+  text-align: right;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  line-height: 1.2;
+  margin-bottom: 0.875rem;
+  font-weight: bold;
+}
+
+sup,
+sub {
+  line-height: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 400;
+  outline: none;
+  color: #E91E63;
+}
+
+a:visited {
+  color: #7B1FA2;
+}
+
+a:hover {
+  color: #E91E63;
+  border-bottom: 1px solid #E91E63;
+}
+
+a:active {
+  color: #E91E63;
+}
+
+a:focus {
+  border: 1px dotted #E91E63;
+}
+
+ul,
+ol {
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+  list-style: none;
+}
+
+ul li,
+ol li {
+  line-height: 1.875;
+}
+
+ul ul,
+ul ol,
+ol ul,
+ol ol {
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+}
+
+table {
+  margin-bottom: 1.5rem;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+table td,
+table th {
+  padding: 0;
+  line-height: 1.5;
+}
+
+p {
+  font-size: 1em;
+  margin-bottom: .875rem;
+}
+
+strong {
+  font-weight: 600;
+}
+
+em {
+  font-style: italic;
+}
+
+small {
+  font-size: .875em;
+}
+
+hr {
+  height: 1px;
+  border: none;
+  margin-bottom: 1rem;
+  background: #eee;
+}
+
+blockquote,
+.blockquote {
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  border-right: 2px solid #E91E63;
+  background: #f4f4f4;
+  color: #555;
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+h1,
+.h1 {
+  font-size: 2em;
+  line-height: 1.25;
+}
+
+h2,
+.h2 {
+  font-size: 1.625em;
+  line-height: 1.15384615;
+}
+
+h3,
+.h3 {
+  font-size: 1.375em;
+  line-height: 1.13636364;
+}
+
+h4,
+.h4 {
+  font-size: 1.125em;
+  line-height: 1.1111111;
+}
+
+h5,
+.h5 {
+  font-size: 1em;
+  line-height: 1.1111111;
+}
+
+h6,
+.h6 {
+  font-size: .875em;
+  line-height: 1.1111111;
+}
+
+@media (min-width: 48em) {
+  body {
+    line-height: 1.875;
+  }
+
+  h1,
+  .h1 {
+    font-size: 2.5em;
+    line-height: 1.125;
+  }
+
+  h2,
+  .h2 {
+    font-size: 2em;
+    line-height: 1.25;
+  }
+
+  h3,
+  .h3 {
+    font-size: 1.5em;
+    line-height: 1.25;
+  }
+
+  h4,
+  .h4 {
+    font-size: 1.125em;
+    line-height: 1.222222;
+  }
+
+  blockquote,
+  .blockquote {
+    line-height: 1.875;
+    font-size: 1.125em;
+  }
+}
+
+@media (min-width: 62em) {
+  h1,
+  .h1 {
+    font-size: 3em;
+    line-height: 1.05;
+  }
+
+  h2,
+  .h2 {
+    font-size: 2.25em;
+    line-height: 1.25;
+  }
+
+  h3,
+  .h3 {
+    font-size: 1.75em;
+    line-height: 1.25;
+  }
+
+  h4,
+  .h4 {
+    font-size: 1.125em;
+    line-height: 1.222222;
+  }
+}
+
+.article {
+  max-width: 800px;
+  margin: 1.5rem auto;
+}
+
+.article-abstract {
+  max-width: 650px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-right: 2px solid #E91E63;
+  padding-right: .875rem;
+}
+
+.article .subheading,
+.article h2 {
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+.article h3 {
+  font-size: .875em;
+  line-height: 1.5;
+}
+
+.article h4 {
+  font-size: .75em;
+  line-height: 1.5;
+}
+
+@media (min-width: 48em) {
+  .article .subheading,
+  .article h2 {
+    font-size: 1.375em;
+    line-height: 1.13636364;
+  }
+
+  .article h3 {
+    font-size: 1em;
+  }
+
+  .article h4 {
+    font-size: .875em;
+  }
+}
+
+.article ul {
+  list-style: none;
+}
+
+.article ul li:before {
+  content: " ";
+  width: 6px;
+  height: 6px;
+  display: inline-block;
+  border-radius: 50%;
+  margin-left: .4rem;
+  background: #E91E63;
+}
+
+.article ul ul li:before {
+  width: 6px;
+  height: 2px;
+  background: #ccc;
+}
+
+.article p:not(.article-abstract) {
+  text-indent: 1.4rem;
+  text-align: justify;
+  word-spacing: -0.05em;
+}
