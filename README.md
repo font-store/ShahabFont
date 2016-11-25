@@ -66,9 +66,9 @@ total(dollar) : 0$
 
 
 # Preview
-![Intro](http://font-store.github.io/font-farbod/docs/1.png)
-![Intro](http://font-store.github.io/font-farbod/docs/2.png)
-![Intro](http://font-store.github.io/font-farbod/docs/3.png)
+![Intro](http://libre.font-store.ir/ShahabFont/docs/1.png)
+![Intro](http://libre.font-store.ir/ShahabFont/docs/2.png)
+![Intro](http://libre.font-store.ir/ShahabFont/docs/3.png)
 
 
 
