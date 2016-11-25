@@ -49,8 +49,8 @@
 
 
 # Donation
-
-[![Intro](http://libre.font-store.ir/ShahabFont/docs/4.png)](ppng.ir/d/uDag)
+امیدواریم این فونت مورد پسندتان قرار گرفته باشد. خوشحال می‌شویم  اختصاص مبلغی هر چند جزیی مرا حمایت نمایید و باعث دلگرمی  ما شوید تا بتوانیم فونت‌های بهتری برای جامعه فارسی زبان تولید نماییم.
+[جهت حمایت مالی کلیک نمایید](http://ppng.ir/d/uDag)
 
 
 ## بزرگوارانی که شهاب را مورد حمایت خود  قرار دادند:
@@ -66,9 +66,9 @@ total(dollar) : 0$
 
 
 # Preview
-![Intro](http://font-store.github.io/font-farbod/docs/1.png)
-![Intro](http://font-store.github.io/font-farbod/docs/2.png)
-![Intro](http://font-store.github.io/font-farbod/docs/3.png)
+![Intro](http://libre.font-store.ir/ShahabFont/docs/1.png)
+![Intro](http://libre.font-store.ir/ShahabFont/docs/2.png)
+![Intro](http://libre.font-store.ir/ShahabFont/docs/3.png)
 
 
 
