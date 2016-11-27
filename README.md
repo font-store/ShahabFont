@@ -6,7 +6,7 @@
 - Development : [Mohammad Saleh Souzanchi](http://github.com/zoghal)
 - Style : Naskh Modern
 - Usage : Print & Publishin, High Resolution Screen or More than 12px font size
-- Version : 0.0.1
+- Version : 0.0.2
 - Grid Proportions: 8 Dot Point
 - Download : [here](https://github.com/font-store/ShahabFont/releases/latest)
 
@@ -19,7 +19,7 @@
 <li>سبک : تحصیلی، براساس خط نسخ مدرن </li>
 <li>گرید تناسبات: ۸ نقطه  </li>
 <li>کاربرد : چاپ و نشر رومیزی، ، صفحه نمایش با کیفیت بالا یا سایز بیشتر از ۱۸ پیکسل</li>
-<li>ویرایش :  ۰.۰.۱</li>
+<li>ویرایش:  ۰.۰.۲</li>
 <li>دانلود : <a href="https://github.com/font-store/ShahabFont/releases/latest">کلیک کنید</a></li>
 
 </ul>

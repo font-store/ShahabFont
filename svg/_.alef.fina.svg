@@ -42,8 +42,13 @@ viewBox="0 0 1300 1056"
   <polygon class="fil4" points="901,441 901,35 975,0 975,616 "/>
   <path class="fil5" d="M1088 569l0 81 -16 0c-65,0 -179,-5 -171,-216l74 -34 0 41c0,88 16,128 98,128l15 0z"/>
  </g>
- <g id="Layer_x0020_27">
+ <g id="Layer_x0020_27" visibility="hidden">
   <metadata id="CorelCorpID_5Corel-Layer"/>
-  <path class="fil6" d="M1081 569l0 81c-138,0 -174,-54 -178,-165l-2 -73 0 0 0 -4 0 0 0 -373 74 -35 0 423 0 0 0 56c1,68 28,90 106,90z"/>
+  <path class="fil6" d="M1081 569l0 81c-138,0 -174,-54 -178,-165l-2 -77 73 -8 1 79c1,68 28,90 106,90z"/>
+  <polygon class="fil4" points="975,423 901,412 901,35 975,0 "/>
+ </g>
+ <g id="Layer_x0020_28">
+  <metadata id="CorelCorpID_6Corel-Layer"/>
+  <path class="fil4" d="M901 501l-1 0 0 -10 0 0 1 -456 74 -35 0 490c1,49 19,79 100,79l0 81c-115,0 -172,-37 -174,-149z"/>
  </g>
 </svg>
